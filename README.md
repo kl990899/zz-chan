@@ -1,4 +1,4 @@
-# ZZ_chan
+# zz-chan
 
 <div align="center">
 
