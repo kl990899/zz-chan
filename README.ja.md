@@ -1,4 +1,4 @@
-# ZZ_chan
+# zz-chan
 
 <div align="center">
 
@@ -539,3 +539,4 @@ SOFTWARE.
 ## 連絡先
 
 ご質問やご提案がございましたら、GitHub Issues を通じてお問い合わせください。
+
